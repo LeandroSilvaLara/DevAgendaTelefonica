@@ -1,0 +1,11 @@
+F:\Project\DevAgenda\DevAgenda\bin\Debug\DevAgenda.exe.config
+F:\Project\DevAgenda\DevAgenda\bin\Debug\DevAgenda.exe
+F:\Project\DevAgenda\DevAgenda\bin\Debug\DevAgenda.pdb
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.csprojAssemblyReference.cache
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.frmAgenda.resources
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.Properties.Resources.resources
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.csproj.GenerateResource.cache
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.csproj.CoreCompileInputs.cache
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.exe
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.pdb
+F:\Project\DevAgenda\DevAgenda\obj\Debug\DevAgenda.frmTelefone.resources
